@@ -1,7 +1,7 @@
 # Hi there, I'm [Yasin](https://www.linkedin.com/in/yasinkansu/) 👋
 
 ## 🚀 About Me
-I'm a full stack developer with 6 years of experience working at Udemy. I'm skilled in Java, Spring, ReactJS, databases (MongoDB, DynamoDB, PostgreSQL, Oracle SQL), Docker, Kubernetes, and microservices. I'm also familiar with Geotools, GeoJSON, and GDAL libraries.
+I'm a full stack developer with 6 years of experience, currently working at Udemy. I'm skilled in Java, Spring, ReactJS, databases (MongoDB, DynamoDB, PostgreSQL, Oracle SQL), Docker, Kubernetes, and microservices. I'm also familiar with Geotools, GeoJSON, and GDAL libraries.
 
 ## 🌱 I’m currently learning
 - GraphQL
